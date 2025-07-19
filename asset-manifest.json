@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.47a5dd3b.js",
-    "static/js/453.ee722819.chunk.js": "/static/js/453.ee722819.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.47a5dd3b.js.map": "/static/js/main.47a5dd3b.js.map",
-    "453.ee722819.chunk.js.map": "/static/js/453.ee722819.chunk.js.map"
+    "main.css": "/generativeart-game/static/css/main.e6c13ad2.css",
+    "main.js": "/generativeart-game/static/js/main.b16dcdfa.js",
+    "static/js/453.ee722819.chunk.js": "/generativeart-game/static/js/453.ee722819.chunk.js",
+    "index.html": "/generativeart-game/index.html",
+    "main.e6c13ad2.css.map": "/generativeart-game/static/css/main.e6c13ad2.css.map",
+    "main.b16dcdfa.js.map": "/generativeart-game/static/js/main.b16dcdfa.js.map",
+    "453.ee722819.chunk.js.map": "/generativeart-game/static/js/453.ee722819.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47a5dd3b.js"
+    "static/js/main.b16dcdfa.js"
   ]
 }
